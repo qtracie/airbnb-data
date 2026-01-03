@@ -2,7 +2,9 @@
 ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 # Airbnb Data Cleaning & Preprocessing Project 🧹📊
 
-This project focuses on one of the most critical stages of the data science pipeline: **Data Cleaning and Preprocessing**. Using a large-scale Airbnb dataset, I transformed raw, inconsistent data into a high-quality, model-ready dataset suitable for downstream analytics and machine learning tasks.
+Welcome! This is my **very first professional-grade project** in the field of Data Analytics. 
+
+It represents my initial milestone in mastering the data science pipeline, where I focused intensely on the most critical phase: **Data Cleaning and Preprocessing**. My goal was to transform a complex, real-world Airbnb dataset into a high-quality format ready for advanced analytics.
 
 ## 📌 Project Objective
 In real-world analytics, the quality of insights depends entirely on the quality of the data. This project demonstrates a systematic approach to handling missing values, outliers, and complex string manipulations to prepare data for future predictive modeling.
