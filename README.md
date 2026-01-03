@@ -53,5 +53,5 @@ This cleaned dataset is ready for applications such as price prediction, demand 
    ```
 3. Execute the script:
    ```bash
-   airbnb-analysis.py
+   python notebooks/airbnb-analysis.py
    ```
