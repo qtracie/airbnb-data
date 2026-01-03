@@ -11,7 +11,7 @@ For a complete, field-by-field breakdown of every variable in the Airbnb dataset
 
 🔗 **[Inside Airbnb Data Dictionary v4.3](./Inside_Airbnb_Data_Dictionary_v4.3.csv)**
 
-This file follows the **Inside Airbnb Version** and serves as the primary reference for all data cleaning and feature engineering logic applied in this project.
+This file follows the **Inside Airbnb** and serves as the primary reference for all data cleaning and feature engineering logic applied in this project.
 
 ## 🛠️ Usage
 Since the data is already included in this folder:
