@@ -4,7 +4,7 @@
 
 Welcome! This is my **very first professional-grade project** in the field of Data Analytics. 
 
-It represents my initial milestone in mastering the data science pipeline, where I focused intensely on the most critical phase: **Data Cleaning and Preprocessing**. My goal was to transform a complex, real-world Airbnb dataset into a high-quality format ready for advanced analytics.
+It represents my initial milestone in mastering the data science pipeline, where I focused intensely on the most critical phase: **Data Cleaning and Preprocessing**. 
 
 ## 📌 Project Objective
 In real-world analytics, the quality of insights depends entirely on the quality of the data. This project demonstrates a systematic approach to handling missing values, outliers, and complex string manipulations to prepare data for future predictive modeling.
