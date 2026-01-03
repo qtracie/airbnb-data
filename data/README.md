@@ -9,7 +9,7 @@ The raw data (`listings.csv`) is sourced from **Inside Airbnb**, an independent,
 ## 📊 Data Dictionary
 For a complete, field-by-field breakdown of every variable in the Airbnb dataset (including data types and detailed definitions), please refer to the dictionary file provided in this folder:
 
-🔗 **[Inside Airbnb Data Dictionary v4.3](.data/Inside_Airbnb_Data_Dictionary_v4.3.csv)**
+🔗 **[Inside Airbnb Data Dictionary v4.3](./Inside_Airbnb_Data_Dictionary_v4.3.csv)**
 
 This file follows the **Inside Airbnb Version** and serves as the primary reference for all data cleaning and feature engineering logic applied in this project.
 
